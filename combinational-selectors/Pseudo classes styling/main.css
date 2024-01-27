@@ -1,0 +1,15 @@
+button:hover{
+    background-color: red;
+    color:white;
+    width: 150px;
+}
+
+button:active{
+    background:green;
+    padding: 10px;
+}
+
+input:focus{
+    background-color: green;
+    color:white;
+}

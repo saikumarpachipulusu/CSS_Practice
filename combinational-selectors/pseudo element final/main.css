@@ -1,0 +1,17 @@
+h1:first-line{
+    color: red;
+    font-size:20px;
+    text-decoration:dashed;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+h3:first-letter{
+    color:red;
+    font-size:100px;
+}
+
+.container p:first-letter{
+    color:purple;
+    font-size:100px;
+}
